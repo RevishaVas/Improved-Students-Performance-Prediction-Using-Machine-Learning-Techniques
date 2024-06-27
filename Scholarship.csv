@@ -1,0 +1,182 @@
+Sl No.,Student Name,Scholarship Name,caste,marks of previous year,gender,Annual Income
+1,Priya,Post-Metric,Catholic,68,M,20000
+2,tanya,Karnataka Minority Schlorship,Muslim,70,F,20000
+3,ramesh,Children of Beedi Worker,,98,M,15000
+4,suresh,Children of Mica/Iron,,78,M,12000
+5,jaya,Differently Abled Schlorship,,56,F,35000
+6,mani,Labour welfare commission schlorship,,76,M,10000
+7,suresh,LIC schlorship,,34,F,5000
+8,tanmayya,NTPC Scholarship Scheme,,76,F,9000
+9,sanjana,VIT University Ignite Scholarships,,98,M,8000
+10,rahula,Indian Oil Corporation Scholarships,,67,F,5000
+11,ragav,Post-Metric,Catholic,56,M,20000
+12,div,Karnataka Minority Schlorship,Catholic,87,M,20000
+13,san,Children of Beedi Worker,,76,M,15000
+14,geeta,Children of Mica/Iron,,98,F,12000
+15,shantu,Children of Beedi Worker,,89,M,15000
+16,nikita,Children of Mica/Iron,,78,F,12000
+17,sangan,LIC schlorship,,65,M,5000
+18,ira,NTPC Scholarship Scheme,,56,F,9000
+19,melisha,VIT University Ignite Scholarships,,77,F,8000
+20,nishan,Children of Beedi Worker,,98,M,15000
+21,manisha,Children of Mica/Iron,,67,F,12000
+22,glenish,LIC schlorship,,56,M,5000
+23,sushmitha,LIC schlorship,,76,F,5000
+24,manushree,NTPC Scholarship Scheme,,87,F,9000
+25,ankush,VIT University Ignite Scholarships,,56,M,8000
+26,anar,Children of Beedi Worker,,66,M,15000
+27,navvena,Children of Mica/Iron,,88,F,12000
+28,sami,Children of Mica/Iron,,67,F,12000
+29,rakesh,Differently Abled Schlorship,,87,M,35000
+30,karana,Labour welfare commission schlorship,,98,F,10000
+31,joyal,LIC schlorship,,56,M,5000
+32,jenish,VIT University Ignite Scholarships,,55,M,8000
+33,aishwarya,Children of Beedi Worker,,44,F,15000
+34,sheryn,Post-Metric,Muslim,65,M,20000
+35,ankjali,Children of Mica/Iron,,65,F,12000
+36,ankit,Post-Metric,Catholic,76,F,20000
+37,divya,Post-Metric,Muslim,87,F,20000
+38,gautham,Post-Metric,Catholic,67,M,20000
+39,malisha,Children of Beedi Worker,,98,F,15000
+40,melin,Children of Mica/Iron,,78,M,12000
+41,simran,Post-Metric,Muslim,67,F,20000
+42,anush,Karnataka Minority Schlorship,Muslim,87,M,20000
+43,nikitha,Post-Metric,Catholic,65,F,20000
+44,raja,Children of Mica/Iron,,66,M,12000
+45,deon,Differently Abled Schlorship,,99,M,35000
+46,Ayushi,Post-Metric,Catholic,78,F,20000
+47,radik,Post-Metric,Catholic,65,M,20000
+48,vaibhav,Children of Beedi Worker,,76,M,15000
+49,kunala,Children of Mica/Iron,,87,F,12000
+50,vinish,Post-Metric,Muslim,56,M,20000
+51,anola,VIT University Ignite Scholarships,,76,F,8000
+52,steveina,Karnataka Minority Schlorship,,87,F,20000
+53,karla,Post-Metric,Muslim,56,F,20000
+54,shanol,Post-Metric,Catholic,87,M,20000
+55,altona,LIC schlorship,,98,F,5000
+56,aslton,NTPC Scholarship Scheme,,67,M,9000
+57,rhea,VIT University Ignite Scholarships,,66,F,8000
+58,ashota,Children of Beedi Worker,,88,F,15000
+59,ethan,Post-Metric,Muslim,78,M,20000
+60,renola,VIT University Ignite Scholarships,,78,F,8000
+61,athan,Post-Metric,Muslim,87,M,20000
+62,Priyanka,No Scholarship,Catholic,68,M,200000
+63,tanyashree,No Scholarship,,70,F,200000
+64,ramesh,No Scholarship,,98,M,200000
+65,suresh,No Scholarship,,78,M,225000
+66,jaya,No Scholarship,,56,F,300000
+67,mani,No Scholarship,,76,M,230000
+68,suresh,No Scholarship,,34,F,3300000
+69,tanmayya,No Scholarship,,76,F,350000
+70,sanjana,No Scholarship,,98,M,250000
+71,rahula,No Scholarship,,67,F,310000
+72,ragav,No Scholarship,Catholic,56,M,220000
+73,div,No Scholarship,Catholic,87,M,240000
+74,san,No Scholarship,,76,M,330000
+75,geeta,No Scholarship,,98,F,410000
+76,shantu,No Scholarship,,89,M,270000
+77,nikita,No Scholarship,,78,F,260000
+78,sangan,No Scholarship,,65,M,280000
+79,ira,No Scholarship,,56,F,300000
+80,melisha,No Scholarship,,77,F,225000
+81,nishan,No Scholarship,,98,M,300000
+82,manisha,No Scholarship,,67,F,230000
+83,glenish,No Scholarship,,56,M,3300000
+84,sushmitha,No Scholarship,,76,F,350000
+85,manushree,No Scholarship,,87,F,250000
+86,ankush,No Scholarship,,56,M,310000
+87,anar,No Scholarship,,66,M,220000
+88,navvena,No Scholarship,,88,F,240000
+89,sami,No Scholarship,,67,F,330000
+90,rakesh,No Scholarship,,87,M,410000
+91,karana,No Scholarship,,98,F,270000
+92,joyal,No Scholarship,,56,M,260000
+93,jenish,No Scholarship,,55,M,225000
+94,aishwarya,No Scholarship,,44,F,300000
+95,sheryn,No Scholarship,Muslim,65,M,230000
+96,ankjali,No Scholarship,,65,F,3300000
+97,ankit,No Scholarship,Catholic,76,F,350000
+98,divya,No Scholarship,Muslim,87,F,250000
+99,gautham,No Scholarship,Catholic,67,M,310000
+100,malisha,No Scholarship,,98,F,220000
+101,melin,No Scholarship,,78,M,240000
+102,simran,No Scholarship,Muslim,67,F,330000
+103,anush,No Scholarship,Muslim,87,M,410000
+104,nikitha,No Scholarship,Catholic,65,F,270000
+105,raja,No Scholarship,,66,M,260000
+106,deon,No Scholarship,,99,M,200000
+107,Ayushi,No Scholarship,Catholic,78,F,225000
+108,radik,No Scholarship,Catholic,65,M,300000
+109,vaibhav,No Scholarship,,76,M,230000
+110,kunala,No Scholarship,,87,F,3300000
+111,vinish,No Scholarship,Muslim,56,M,350000
+112,anola,No Scholarship,,76,F,250000
+113,steveina,No Scholarship,,87,F,310000
+114,karla,No Scholarship,Muslim,56,F,220000
+115,shanol,No Scholarship,Catholic,87,M,240000
+116,altona,No Scholarship,,98,F,330000
+117,aslton,No Scholarship,,67,M,410000
+118,rhea,No Scholarship,,66,F,270000
+119,ashota,No Scholarship,,88,F,260000
+120,ethan,No Scholarship,Muslim,78,M,200000
+1,Priya,No Scholarship,Catholic,38,M,20000
+2,tanya,No Scholarship,Muslim,30,F,20000
+3,ramesh,No Scholarship,,28,M,15000
+4,suresh,No Scholarship,,35,M,12000
+5,jaya,No Scholarship,,36,F,35000
+6,mani,No Scholarship,,31,M,10000
+7,suresh,No Scholarship,,32,F,5000
+8,tanmayya,No Scholarship,,39,F,9000
+9,sanjana,No Scholarship,,24,M,8000
+10,rahula,No Scholarship,,30,F,5000
+11,ragav,No Scholarship,Catholic,34,M,20000
+12,div,No Scholarship,Catholic,37,M,20000
+13,san,No Scholarship,,29,M,15000
+14,geeta,No Scholarship,,34,F,12000
+15,shantu,No Scholarship,,33,M,15000
+16,nikita,No Scholarship,,31,F,12000
+17,sangan,No Scholarship,,34,M,5000
+18,ira,No Scholarship,,20,F,9000
+19,melisha,No Scholarship,,36,F,8000
+20,nishan,No Scholarship,,25,M,15000
+21,manisha,No Scholarship,,35,F,12000
+22,glenish,No Scholarship,,30,M,5000
+23,sushmitha,No Scholarship,,39,F,5000
+24,manushree,No Scholarship,,24,F,9000
+25,ankush,No Scholarship,,30,M,8000
+26,anar,No Scholarship,,34,M,15000
+27,navvena,No Scholarship,,37,F,12000
+28,sami,No Scholarship,,29,F,12000
+29,rakesh,No Scholarship,,34,M,35000
+30,karana,No Scholarship,,33,F,10000
+31,joyal,No Scholarship,,31,M,5000
+32,jenish,No Scholarship,,34,M,8000
+33,aishwarya,No Scholarship,,20,F,15000
+34,sheryn,No Scholarship,Muslim,36,M,20000
+35,ankjali,No Scholarship,,25,F,12000
+36,ankit,No Scholarship,Catholic,35,F,20000
+37,divya,No Scholarship,Muslim,30,F,20000
+38,gautham,No Scholarship,Catholic,39,M,20000
+39,malisha,No Scholarship,,24,F,15000
+40,melin,No Scholarship,,30,M,12000
+41,simran,No Scholarship,Muslim,34,F,20000
+42,anush,No Scholarship,Muslim,37,M,20000
+43,nikitha,No Scholarship,Catholic,29,F,20000
+44,raja,No Scholarship,,34,M,12000
+45,deon,No Scholarship,,33,M,35000
+46,Ayushi,No Scholarship,Catholic,31,F,20000
+47,radik,No Scholarship,Catholic,34,M,20000
+48,vaibhav,No Scholarship,,20,M,15000
+49,kunala,No Scholarship,,36,F,12000
+50,vinish,No Scholarship,Muslim,25,M,20000
+51,anola,No Scholarship,,35,F,8000
+52,steveina,No Scholarship,,30,F,20000
+53,karla,No Scholarship,Muslim,34,F,20000
+54,shanol,No Scholarship,Catholic,20,M,20000
+55,altona,No Scholarship,,36,F,5000
+56,aslton,No Scholarship,,25,M,9000
+57,rhea,No Scholarship,,34,F,8000
+58,ashota,No Scholarship,,20,F,15000
+59,ethan,No Scholarship,Muslim,36,M,20000
+60,renola,No Scholarship,,25,F,8000
+61,athan,No Scholarship,Muslim,37,M,20000

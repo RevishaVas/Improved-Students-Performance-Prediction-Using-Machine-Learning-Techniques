@@ -1,0 +1,216 @@
+sl_no,gender,ssc_p,ssc_b,hsc_p,hsc_b,hsc_s,degree_p,workex,etest_p,specialisation,status,salary
+1,M,87,Others,91,Others,Commerce,88,No,87,CS,Placed,270000
+2,M,79.33,Central,78.33,Others,Science,77.48,Yes,86.5,IT,Placed,200000
+3,M,85,Central,79,Central,Arts,90,No,94,IT,Placed,250000
+4,M,56,Central,52,Central,Science,52,No,66,CS,Not Placed,
+5,M,85.8,Central,73.6,Central,Commerce,73.3,No,96.8,IT,Placed,425000
+6,M,55,Others,49.8,Others,Science,67.25,Yes,55,IT,Not Placed,
+7,F,46,Others,49.2,Others,Commerce,67,No,61,IT,Not Placed,
+8,M,82,Central,88,Central,Science,91,Yes,85,IT,Placed,252000
+9,M,73,Central,79,Central,Commerce,72,No,91.34,IT,Placed,231000
+10,M,58,Central,68,Central,Science,61,No,54,IT,Not Placed,
+11,M,89,Central,97,Central,Science,97,Yes,93,CS,Placed,260000
+12,M,92,Central,89,Central,Science,78.3,Yes,92,IT,Placed,250000
+13,F,47,Central,55,Others,Science,65,No,62,CS,Not Placed,
+14,F,90,Central,87,Central,Science,89,No,88,IT,Placed,218000
+15,M,62,Central,47,Central,Science,50,No,65,CS,Not Placed,
+16,F,80,Central,87,Central,Science,89,Yes,85,IT,Placed,200000
+17,M,90,Central,91,Central,Science,87,Yes,88,IT,Placed,300000
+18,F,55,Central,67,Central,Science,64,No,60,IT,Not Placed,
+19,F,63,Central,66,Central,Commerce,64,No,68,CS,Not Placed,
+20,M,90,Others,84,Others,Arts,87,Yes,82,IT,Placed,236000
+21,M,87,Others,86,Others,Commerce,89,No,87,CS,Placed,265000
+22,F,79,Others,76,Others,Commerce,85,No,95,IT,Placed,393000
+23,F,78,Others,89,Others,Science,89,No,87,CS,Placed,360000
+24,F,78,Others,83,Others,Science,88,Yes,92,IT,Placed,300000
+25,M,76.5,Others,97.7,Others,Science,87,No,97.4,IT,Placed,360000
+26,F,52.58,Others,54.6,Central,Science,50.2,Yes,64,IT,Not Placed,
+27,M,81,Others,79,Others,Science,88,Yes,86,IT,Placed,240000
+28,M,83,Others,87,Others,Science,78,No,78,CS,Placed,265000
+29,M,76.76,Others,76.5,Others,Science,89,Yes,90,IT,Placed,350000
+30,M,62,Central,67,Central,Science,58,No,52,IT,Not Placed,
+31,F,85,Central,73.5,Central,Science,73,No,87,CS,Placed,250000
+32,F,67,Central,53,Central,Science,65,No,64,CS,Not Placed,
+33,F,87,Central,81,Central,Science,85,No,80,CS,Placed,278000
+34,F,87,Others,83,Others,Science,81,Yes,88,IT,Placed,260000
+35,M,62,Others,51,Others,Science,52,No,68,CS,Not Placed,
+36,F,90,Central,84,Central,Science,86,No,87,CS,Placed,300000
+37,M,51,Central,44,Central,Science,57,No,64,IT,Not Placed,
+38,F,79,Central,87,Central,Science,89,No,88,CS,Placed,320000
+39,F,89,Others,81,Others,Science,81,No,87,CS,Placed,240000
+40,M,81,Others,83,Others,Science,80,No,93,IT,Placed,411000
+41,F,78,Central,77,Others,Science,80,No,80,IT,Placed,287000
+42,F,69,Others,63.16,Others,Science,65,Yes,65,CS,Not Placed,
+43,M,49,Others,39,Central,Science,65,No,63,IT,Not Placed,
+44,M,87,Others,87,Others,Science,88,No,95,CS,Placed,300000
+45,F,77,Others,83,Others,Science,81,Yes,89,IT,Placed,200000
+46,F,66,Central,64,Central,Science,69,No,58,CS,Not Placed,
+47,F,70,Others,71,Others,Science,65.6,No,68,CS,Not Placed,
+48,M,89,Central,95,Central,Science,90,Yes,95,IT,Placed,204000
+49,M,90,Others,80,Others,Commerce,87,No,85,IT,Placed,250000
+50,F,50,Others,37,Others,Arts,52,No,65,CS,Not Placed,
+51,F,95,Central,95,Central,Science,95,No,91,CS,Placed,200000
+52,M,54.4,Central,61.12,Central,Science,56.2,No,67,CS,Not Placed,
+53,F,40.89,Others,45.83,Others,Science,53,No,71.2,CS,Not Placed,
+54,M,80,Others,70,Others,Science,72,No,87,CS,Placed,450000
+55,F,78,Central,89,Others,Science,80,No,88,CS,Placed,216000
+56,M,79,Central,75,Others,Science,76,No,89,CS,Placed,220000
+57,M,81,Others,83,Others,Science,87,No,88,IT,Placed,240000
+58,M,91,Central,81,Central,Science,87,No,80,IT,Placed,360000
+59,M,84,Central,82,Others,Science,88,No,84,IT,Placed,268000
+60,M,87,Central,85,Others,Science,92,No,87,IT,Placed,265000
+61,M,84,Central,80,Central,Science,92,Yes,90,IT,Placed,260000
+62,M,84.2,Central,86,Central,Science,85,No,81,IT,Placed,300000
+63,F,86.5,Others,84,Others,Science,77,No,79,IT,Placed,240000
+64,M,61,Others,70,Others,Science,64,No,68.5,CS,Not Placed,
+65,M,80,Others,83,Others,Science,78,No,91,IT,Placed,240000
+66,M,54,Others,47,Others,Science,57,No,69,CS,Not Placed,
+67,M,83,Others,84,Others,Science,86,No,88,CS,Placed,275000
+68,M,80.92,Others,78.5,Others,Science,87,No,88,IT,Placed,275000
+69,F,69.7,Central,47,Central,Science,72.7,No,69,CS,Not Placed,
+70,M,83,Central,86,Central,Science,87,Yes,80,IT,Placed,275000
+71,M,82,Others,81,Others,Science,82,No,89,IT,Placed,360000
+72,M,85,Others,80,Others,Science,81,No,95,IT,Placed,240000
+73,M,84.86,Others,87,Others,Science,78,No,95.5,IT,Placed,240000
+74,M,84,Central,86,Others,Science,91,No,86,IT,Placed,218000
+75,M,86,Central,84,Central,Science,80,No,84.27,IT,Placed,336000
+76,F,59,Central,62,Others,Science,71,No,74,CS,Not Placed,
+77,F,86,Others,80,Central,Science,81,No,81,IT,Placed,230000
+78,M,94,Others,91,Others,Science,95,Yes,89,IT,Placed,500000
+79,M,84,Others,90.9,Others,Science,84,No,86.04,IT,Placed,270000
+80,F,69,Central,62,Central,Science,66,No,71,CS,Not Placed,
+81,F,82,Others,82,Others,Science,89,Yes,87,CS,Placed,240000
+82,M,81.7,Others,84,Others,Science,87,Yes,86,IT,Placed,300000
+83,M,63,Central,67,Central,Science,74,No,71,IT,Not Placed,
+84,M,84,Others,89,Others,Science,83,Yes,84,IT,Placed,300000
+85,M,80,Central,83,Others,Science,80,Yes,85,IT,Placed,300000
+86,F,83.84,Others,89.83,Others,Science,82,Yes,88,IT,Placed,400000
+87,M,89,Others,87,Others,Science,89,No,87,IT,Placed,220000
+88,M,59.6,Central,51,Central,Science,60,No,70,CS,Not Placed,
+89,F,87,Central,89,Central,Science,83,No,88,CS,Placed,210000
+90,F,84,Others,85,Others,Science,89,Yes,82,CS,Placed,210000
+91,F,85,Others,90,Others,Science,82,No,92,IT,Placed,300000
+92,M,52,Central,57,Central,Science,50.8,No,67,CS,Not Placed,
+93,F,80,Central,89,Central,Science,86,No,82,IT,Placed,230000
+94,M,52,Central,62,Central,Science,54,No,72,CS,Not Placed,
+95,M,88,Central,82,Central,Science,84,No,83,IT,Placed,260000
+96,M,83,Central,78,Others,Science,85,Yes,95.46,IT,Placed,420000
+97,F,87,Central,80,Central,Science,86,Yes,86,IT,Placed,300000
+98,F,70.5,Central,62.5,Others,Science,61,No,70,IT,Not Placed,
+99,F,89,Central,83,Central,Science,85,No,80,IT,Placed,220000
+100,M,54,Central,82,Others,Science,63,No,50,IT,Not Placed,
+101,F,45,Others,57,Others,Science,58,Yes,56.39,CS,Not Placed,
+102,M,85,Central,82,Central,Science,88,No,88,CS,Placed,380000
+103,F,77,Others,81,Others,Science,88,Yes,87,IT,Placed,300000
+104,M,83,Central,88,Central,Science,83,Yes,85,CS,Placed,240000
+105,M,79,Central,83,Others,Science,85,Yes,85,CS,Placed,360000
+106,M,59,Central,64,Others,Science,58,No,72,CS,Not Placed,
+107,M,61.08,Others,50,Others,Science,54,No,71,IT,Not Placed,
+108,M,82,Others,90,Others,Science,83,No,80,CS,Placed,200000
+109,M,81,Central,82,Central,Science,89,No,84,IT,Placed,300000
+110,M,52,Central,63,Others,Science,65,Yes,66,CS,Not Placed,
+111,F,84,Central,80,Central,Science,92,No,87,CS,Placed,250000
+112,M,51,Others,54,Others,Science,61,No,60,CS,Not Placed,
+113,M,88,Others,81,Others,Science,91,No,88,CS,Placed,250000
+114,F,87,Others,79,Others,Science,91,No,82,IT,Placed,280000
+115,M,86,Central,78,Others,Science,82,No,83,CS,Placed,250000
+116,F,89,Others,83,Others,Science,83,No,89,IT,Placed,216000
+117,M,87,Central,82,Central,Science,85,Yes,96,IT,Placed,300000
+118,M,77,Others,85,Others,Science,89,No,80,IT,Placed,240000
+119,M,76,Central,80,Central,Science,78,Yes,97,CS,Placed,276000
+120,M,80,Central,88,Central,Science,84,Yes,82.66,IT,Placed,940000
+121,M,58,Others,40,Others,Science,59,No,73,CS,Not Placed,
+122,F,87,Central,87,Others,Science,79,Yes,85,CS,Placed,250000
+123,F,87,Central,86,Central,Science,79,Yes,80.4,IT,Placed,236000
+124,M,84,Others,89,Others,Science,83,Yes,80,CS,Placed,240000
+125,M,93,Central,81,Central,Science,84,Yes,84,CS,Placed,250000
+126,F,84,Central,73,Central,Science,83,No,85,IT,Placed,350000
+127,F,79,Others,81,Others,Science,85,Yes,80,IT,Placed,210000
+128,F,80,Others,80,Others,Science,89,No,85,CS,Placed,250000
+129,M,80.4,Central,89,Central,Science,87,Yes,81.2,CS,Placed,400000
+130,M,94,Central,90,Others,Science,86,Yes,90,IT,Placed,250000
+131,M,62,Central,65,Others,Science,60,No,74,IT,Not Placed,
+132,F,92,Others,87,Others,Science,82,Yes,80,IT,Placed,360000
+133,M,86,Others,88,Others,Science,84,Yes,74.4,CS,Placed,300000
+134,M,81,Central,84,Others,Science,87,Yes,85,CS,Placed,250000
+135,F,87,Central,92,Others,Science,82,Yes,94,IT,Placed,250000
+136,F,82,Central,86,Others,Science,89,No,85,CS,Placed,200000
+137,F,47,Central,59,Central,Science,64,No,68,IT,Not Placed,
+138,M,87,Others,83,Central,Science,92,No,90,CS,Placed,225000
+139,F,82,Others,84,Others,Science,93,Yes,96,IT,Placed,250000
+140,M,87,Central,80,Central,Science,89,Yes,91,IT,Placed,220000
+141,M,86,Central,85,Others,Science,89,Yes,86,IT,Placed,265000
+142,M,66,Central,64,Central,Science,60,No,60,CS,Not Placed,
+143,M,85,Central,80,Others,Science,83,Yes,87,IT,Placed,260000
+144,M,89,Others,85,Others,Science,90,No,89,IT,Placed,300000
+145,M,52,Others,50,Others,Science,61,No,60,IT,Not Placed,
+146,M,89.4,Others,85,Others,Science,91,No,82,CS,Placed,400000
+147,M,94,Central,83,Others,Science,85,No,85,CS,Placed,233000
+148,M,80,Central,87,Central,Science,86,No,83,IT,Placed,300000
+149,F,81,Central,86,Central,Science,87,No,87,IT,Placed,240000
+150,M,44,Central,58,Central,Science,55,Yes,64.25,CS,Not Placed,
+151,M,80,Central,88,Central,Science,93,Yes,86,IT,Placed,690000
+152,M,79,Central,90,Central,Science,80,No,83,IT,Placed,270000
+153,F,81,Others,89,Central,Science,84,No,98,IT,Placed,240000
+154,M,89,Others,89,Others,Science,90,Yes,86,IT,Placed,340000
+155,M,87,Central,83,Others,Science,80,Yes,80,IT,Placed,250000
+156,M,51.57,Others,74.66,Others,Science,59.9,Yes,56.15,CS,Not Placed,
+157,M,85,Central,89,Central,Science,80,Yes,80,CS,Placed,255000
+158,M,87,Central,87,Central,Science,81,No,93.4,IT,Placed,300000
+159,M,67,Others,63,Others,Science,64,No,60,IT,Not Placed,
+160,M,52,Central,49,Others,Science,58,No,62,CS,Not Placed,
+161,M,87,Central,83,Central,Science,82,Yes,85,CS,Placed,300000
+162,M,55.6,Others,51,Others,Science,57.5,No,57.63,CS,Not Placed,
+163,M,85,Central,87.6,Others,Science,87,Yes,85,IT,Placed,285000
+164,M,83,Others,87,Others,Science,84,No,85,IT,Placed,500000
+165,F,87,Central,92,Central,Science,83,No,83,IT,Placed,250000
+166,F,63.3,Central,67,Others,Science,74,No,70,IT,Not Placed,
+167,M,82,Others,86,Others,Science,80,Yes,83,CS,Placed,240000
+168,M,67.9,Others,62,Others,Science,67,Yes,58.1,IT,Not Placed,
+169,F,48,Central,51,Central,Science,58,Yes,60,CS,Not Placed,
+170,M,59.96,Others,42.16,Others,Science,61.26,No,54.48,CS,Not Placed,
+171,F,63.4,Others,67.2,Others,Science,60,No,58.06,CS,Not Placed,
+172,M,80,Others,80,Others,Science,82,Yes,83,IT,Placed,290000
+173,M,80,Others,88,Others,Science,86,No,84,CS,Placed,300000
+174,F,52,Others,52,Others,Science,55,No,67,CS,Not Placed,
+175,M,83,Others,80,Others,Science,84,Yes,84,IT,Placed,500000
+176,M,63,Others,62,Others,Science,65,No,67,CS,Not Placed,
+177,F,89,Central,86,Others,Science,86,No,85,CS,Placed,220000
+178,F,83,Central,97,Others,Science,89,Yes,89,IT,Placed,650000
+179,M,88,Others,84,Others,Science,88,No,84,CS,Placed,350000
+180,F,70,Central,64,Central,Science,64.2,No,70,CS,Not Placed,
+181,M,86,Central,82,Others,Science,82,Yes,87,IT,Placed,265000
+182,M,62,Central,60.33,Others,Science,64.21,No,63,CS,Not Placed,
+183,M,52,Others,65,Others,Science,57,Yes,65,IT,Not Placed,
+184,M,85,Central,77,Central,Science,89,No,80,CS,Placed,276000
+185,F,56.28,Others,62.83,Others,Science,59.79,No,60,CS,Not Placed,
+186,F,88,Central,72,Central,Science,78,No,82,CS,Placed,252000
+187,F,52,Central,64,Central,Science,61,No,55,IT,Not Placed,
+188,M,79,Central,86,Central,Science,87,Yes,95,IT,Placed,280000
+189,M,61.8,Others,47,Others,Science,54.38,No,57,IT,Not Placed,
+190,F,54,Central,77.6,Others,Science,69.2,No,73,IT,Not Placed,
+191,F,64,Others,70.2,Central,Science,61,No,50,IT,Not Placed,
+192,M,87,Others,81,Central,Science,82,No,82,IT,Placed,264000
+193,M,85,Central,82,Central,Science,84,Yes,93.4,IT,Placed,270000
+194,F,80,Central,83,Central,Science,86,Yes,80,CS,Placed,300000
+195,M,52,Others,55,Others,Science,56.3,No,59,IT,Not Placed,
+196,M,87,Central,86,Central,Science,82,Yes,84,CS,Placed,275000
+197,M,81,Others,83,Others,Science,87,Yes,88,IT,Placed,250000
+198,F,83.96,Others,83,Others,Science,91,No,88,CS,Placed,260000
+199,F,67,Central,70,Central,Science,65,No,70,CS,Not Placed,
+200,M,89,Others,85,Others,Science,87,No,83,CS,Placed,265000
+201,M,89,Others,80,Others,Science,85,No,87.55,IT,Placed,300000
+202,M,54.2,Central,63,Others,Science,58,No,69,CS,Not Placed,
+203,M,80,Central,84,Central,Science,86,No,81,CS,Placed,240000
+204,M,85,Others,82,Others,Science,86,No,86,CS,Placed,260000
+205,F,87,Others,85,Others,Science,83,Yes,80,IT,Placed,210000
+206,M,80,Others,86,Others,Science,85,No,82,IT,Placed,250000
+207,M,41,Central,42,Central,Science,60,No,77,IT,Not Placed,
+208,M,83.33,Central,78,Others,Science,81,Yes,88.56,IT,Placed,300000
+209,F,43,Central,60,Others,Science,65,No,75,CS,Not Placed,
+210,M,82,Central,84,Central,Science,85,No,87,IT,Placed,216000
+211,M,80.6,Others,82,Others,Science,87,No,91,IT,Placed,400000
+212,M,80,Others,87,Others,Science,82,No,84,IT,Placed,275000
+213,M,67,Others,90,Others,Science,83,Yes,89,IT,Placed,295000
+214,F,74,Others,89,Others,Science,88,No,80,CS,Placed,204000
+215,M,62,Central,58,Others,Science,53,No,74,CS,Not Placed,
